@@ -4,11 +4,6 @@ This portfolio demonstrates multiple web projects and experiences, featuring a r
 
 ## Technologies
 - HTML, CSS, JavaScript
-- TypeScript, React, Next.js
-- .NET, Blazor
-- Azure, DevOps
-- SQL Server, MongoDB
-
 ## Features
 - Smooth scrolling sections
 - Dynamic background animations
